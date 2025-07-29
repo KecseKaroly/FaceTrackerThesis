@@ -1,0 +1,128 @@
+[CONFIRMED]: 1 at 0 with score: 0.9616010785102844 > 0.3
+[NEW] detection at 1 with score: 0.9616010785102844 > 0.27
+[CONFIRMED]: 2 at 0 with score: 0.9309251308441162 > 0.3
+[NEW] detection at 1 with score: 0.9309251308441162 > 0.27
+[NEW] detection at 40 with score: 0.9115230441093445 > 0.27
+[CONFIRMED]: 3 at 42 with score: 0.9921312928199768 > 0.3
+[LOST]: 2 at 52 with score: 0.7481058239936829
+[REACTIVATE1]: 2 at 66  with match score: 0.1325786726496697
+[LOST]: 2 at 86 with score: 0.6300174593925476
+[REACTIVATE2]: 2 at 122 with match score: 0.35047402690498847
+[LOST]: 2 at 125 with score: 0.6490604877471924
+[REACTIVATE2]: 2 at 127 with match score: 0.31683063225283575
+[NEW] detection at 127 with score: 0.5824780464172363 > 0.27
+[LOST]: 2 at 128 with score: 0.6017245054244995
+[REACTIVATE2]: 2 at 130 with match score: 0.39538065649403087
+[LOST]: 2 at 131 with score: 0.5579593181610107
+[NEW] detection at 132 with score: 0.5683737397193909 > 0.27
+[CONFIRMED]: 4 at 134 with score: 0.7785625457763672 > 0.3
+[REACTIVATE2]: 2 at 135 with match score: 0.40344761694128145
+[LOST]: 4 at 137 with score: 0.7870075702667236
+[REACTIVATE2]: 4 at 139 with match score: 0.11811042459065157
+[LOST]: 4 at 141 with score: 0.6076527833938599
+[NEW] detection at 141 with score: 0.8383350968360901 > 0.27
+[REACTIVATE2]: 4 at 142 with match score: 0.3403391342537661
+[CONFIRMED]: 5 at 143 with score: 0.9008215665817261 > 0.3
+[NEW] detection at 147 with score: 0.5903732180595398 > 0.27
+[LOST]: 4 at 148 with score: 0.6505887508392334
+[CONFIRMED]: 6 at 149 with score: 0.9581970572471619 > 0.3
+[REACTIVATE1]: 4 at 149  with match score: 0.346538512647864
+[LOST]: 4 at 151 with score: 0.8419315218925476
+[REACTIVATE1]: 4 at 153  with match score: 0.48419096482255
+[LOST]: 4 at 166 with score: 0.7655431032180786
+[REACTIVATE1]: 4 at 167  with match score: 0.2482908685654518
+[NEW] detection at 168 with score: 0.8154870867729187 > 0.27
+[CONFIRMED]: 7 at 170 with score: 0.9887517094612122 > 0.3
+[LOST]: 2 at 170 with score: 0.5665402412414551
+[REACTIVATE1]: 2 at 171  with match score: 0.25228405520152897
+[LOST]: 2 at 174 with score: 0.7373486161231995
+[LOST]: 4 at 197 with score: 0.795559287071228
+[REACTIVATE1]: 4 at 198  with match score: 0.049924217420216806
+[LOST]: 4 at 199 with score: 0.8153063654899597
+[REACTIVATE2]: 4 at 200 with match score: 0.12008084430012739
+[LOST]: 5 at 232 with score: 0.5543188452720642
+[LOST]: 4 at 238 with score: 0.6919128894805908
+[REACTIVATE2]: 4 at 239 with match score: 0.07910101577498914
+[LOST]: 4 at 240 with score: 0.6008186936378479
+[REACTIVATE2]: 4 at 242 with match score: 0.1586593374290986
+[LOST]: 4 at 243 with score: 0.6002711653709412
+[REACTIVATE2]: 4 at 248 with match score: 0.313371962208725
+[LOST]: 1 at 248 with score: 0.6301682591438293
+[LOST]: 4 at 249 with score: 0.6484195590019226
+[NEW] detection at 254 with score: 0.6834587454795837 > 0.27
+[REACTIVATE2]: 4 at 255 with match score: 0.34974062917515764
+[CONFIRMED]: 8 at 256 with score: 0.805060863494873 > 0.3
+[LOST]: 4 at 256 with score: 0.5537804961204529
+[REACTIVATE2]: 4 at 263 with match score: 0.3514687048727636
+[LOST]: 4 at 264 with score: 0.6276255249977112
+[REACTIVATE2]: 5 at 269 with match score: 0.6707138565325159
+[REACTIVATE2]: 4 at 269 with match score: 0.09238586918717187
+[NEW] detection at 333 with score: 0.8476272821426392 > 0.27
+[CONFIRMED]: 9 at 335 with score: 0.9818114638328552 > 0.3
+[2REMOVED] confirmed track with id 2 at 394
+[2REMOVED] confirmed track with id 2 at 395
+[LOST]: 7 at 408 with score: 0.9083239436149597
+[NEW] detection at 442 with score: 0.7017914652824402 > 0.27
+[REACTIVATE_MAJORITY]: 7 at 443, with 3 votes
+[NEW] detection at 460 with score: 0.9251909255981445 > 0.27
+[REACTIVATE_MAJORITY]: 1 at 461, with 4 votes
+[LOST]: 9 at 468 with score: 0.9575334787368774
+[REACTIVATE2]: 9 at 472 with match score: 0.2892928042911858
+[LOST]: 9 at 473 with score: 0.6480873227119446
+[REACTIVATE1]: 9 at 474  with match score: 0.2982541120178512
+[LOST]: 5 at 519 with score: 0.7318893671035767
+[LOST]: 4 at 531 with score: 0.6067461967468262
+[REACTIVATE2]: 4 at 534 with match score: 0.14967541410756194
+[NEW] detection at 542 with score: 0.8835294246673584 > 0.27
+[REACTIVATE_MAJORITY]: 5 at 543, with 3 votes
+[LOST]: 4 at 557 with score: 0.5987061858177185
+[NEW] detection at 568 with score: 0.7404764890670776 > 0.27
+[CONFIRMED]: 10 at 570 with score: 0.8073726892471313 > 0.3
+[LOST]: 5 at 585 with score: 0.6220368146896362
+[NEW] detection at 639 with score: 0.8983504772186279 > 0.27
+[CONFIRMED]: 11 at 641 with score: 0.8878520131111145 > 0.3
+[NEW] detection at 672 with score: 0.6741939783096313 > 0.27
+[REACTIVATE_MAJORITY]: 5 at 673, with 3 votes
+[LOST]: 5 at 681 with score: 0.6198862195014954
+[REACTIVATE1]: 5 at 682  with match score: 0.13661595005196273
+[LOST]: 5 at 684 with score: 0.7297731637954712
+[REACTIVATE1]: 5 at 693  with match score: 0.6216978676810703
+[LOST]: 5 at 695 with score: 0.6606296300888062
+[REACTIVATE1]: 5 at 697  with match score: 0.15979822042337538
+[LOST]: 5 at 698 with score: 0.7425355315208435
+[REACTIVATE2]: 5 at 702 with match score: 0.1904667947967479
+[LOST]: 5 at 707 with score: 0.6840787529945374
+[LOST]: 10 at 709 with score: 0.7713005542755127
+[REACTIVATE2]: 5 at 715 with match score: 0.25355528080513245
+[LOST]: 5 at 716 with score: 0.5520399808883667
+[REACTIVATE2]: 5 at 717 with match score: 0.16560902741279482
+[NEW] detection at 719 with score: 0.8443076014518738 > 0.27
+[REACTIVATE_MAJORITY]: 10 at 720, with 3 votes
+[LOST]: 5 at 723 with score: 0.7722250819206238
+[REACTIVATE2]: 5 at 727 with match score: 0.1488296527483824
+[LOST]: 5 at 728 with score: 0.657101035118103
+[REACTIVATE_MAJORITY]: 4 at 732, with 3 votes
+[REACTIVATE_MAJORITY]: 5 at 783, with 4 votes
+[NEW] detection at 860 with score: 0.8080247044563293 > 0.27
+[CONFIRMED]: 12 at 862 with score: 0.9626923203468323 > 0.3
+[LOST]: 11 at 870 with score: 0.6497161388397217
+[REACTIVATE1]: 11 at 871  with match score: 0.09305550577901357
+[LOST]: 11 at 872 with score: 0.7374974489212036
+[REACTIVATE2]: 11 at 881 with match score: 0.38391613541476366
+[LOST]: 11 at 882 with score: 0.6405799984931946
+[LOST]: 5 at 885 with score: 0.7405118346214294
+[REACTIVATE2]: 5 at 902 with match score: 0.6565609521593753
+[NEW] detection at 903 with score: 0.6515625715255737 > 0.27
+[NEW] detection at 909 with score: 0.7741605043411255 > 0.27
+[CONFIRMED]: 13 at 911 with score: 0.978025496006012 > 0.3
+[NEW] detection at 953 with score: 0.622668981552124 > 0.27
+[LOST]: 12 at 966 with score: 0.6048521995544434
+[REACTIVATE1]: 12 at 970  with match score: 0.3265620716367633
+[LOST]: 12 at 971 with score: 0.9932524561882019
+[REACTIVATE2]: 12 at 983 with match score: 0.5236058835091166
+[LOST]: 12 at 1035 with score: 0.874552309513092
+[REACTIVATE1]: 12 at 1038  with match score: 0.25948240420877555
+[LOST]: 12 at 1039 with score: 0.994766116142273
+[REACTIVATE1]: 12 at 1047  with match score: 0.4687369885039788
+[2REMOVED] confirmed track with id 11 at 1102
+[2REMOVED] confirmed track with id 11 at 1103
