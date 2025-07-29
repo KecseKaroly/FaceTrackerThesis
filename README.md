@@ -5,7 +5,7 @@ This repository contains the implementation developed for the Master's Thesis:
 by Károly Dániel Kecse  
 Johannes Kepler University Linz – 2025
 
-## 🧠 Overview
+## Overview
 
 This project extends the ByteTrack multi-object tracking framework by introducing:
 - A face-specific detection module (RetinaFace)
@@ -15,14 +15,14 @@ This project extends the ByteTrack multi-object tracking framework by introducin
 
 The system was evaluated on two custom video scenarios (Office and Shopping Mall), and achieved improved identity preservation while maintaining real-time performance.
 
-## 🧩 Pipeline Components
+## Pipeline Components
 
-- **Detector:** [RetinaFace](https://github.com/deepinsight/insightface)
+- **Detector:** RetinaFace
 - **Tracker:** Modified ByteTrack (Kalman Filter + Hungarian Matching)
 - **Appearance Embedding:** MobileFaceNet
 - **Re-ID Module:** Custom Siamese Network with contrastive loss and dynamic majority voting
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```bash
 .
@@ -33,7 +33,6 @@ The system was evaluated on two custom video scenarios (Office and Shopping Mall
 ├── yoloy/tracker        # Main algorithms for tracker, kalman filter and the matching
 └── requirements.txt
 ```
-## 🧠 Overview
 
 ## Prerequisites
 
