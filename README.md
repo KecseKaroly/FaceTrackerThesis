@@ -30,7 +30,7 @@ The system was evaluated on two custom video scenarios (Office and Shopping Mall
 ├── videos/              # Input videos 
 ├── logs/                # Output tracking logs (frame_id, track_id, bbox, score, etc.)
 ├── utils/               # Helper functions (timer and bounding box)
-├── yoloy/tracker        # Main algorithms for tracker, kalman filter and the matching
+├── yolox/tracker        # Main algorithms for tracker, kalman filter and the matching
 └── requirements.txt
 ```
 
